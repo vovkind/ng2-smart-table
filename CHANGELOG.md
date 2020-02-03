@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.7.0](https://github.com/vovkind/ng2-smart-table/compare/v1.6.0...v1.7.0) (2020-02-03)
+
+
+### Features
+
+* RD-1234 final commit ([0ce8069](https://github.com/vovkind/ng2-smart-table/commit/0ce8069ecf0e36c6bb68036f0271362653ca6a03))
+
 ## [1.6.0](https://github.com/vovkind/ng2-smart-table/compare/v1.5.3...v1.6.0) (2020-02-03)
 
 

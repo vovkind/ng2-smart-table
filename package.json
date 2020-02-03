@@ -1,6 +1,6 @@
 {
   "name": "ng2-smart-table",
-  "version": "1.6.0",
+  "version": "1.7.0",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
@@ -14,7 +14,7 @@
     "changelog": "standard-changelog -p angular",
     "lint": "ng lint",
     "e2e": "ng e2e",
-    "releaseVersion": "standard-version",
+    "releaseVersion": "standard-version"
   },
   "private": true,
   "dependencies": {
