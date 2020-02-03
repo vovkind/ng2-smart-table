@@ -1,6 +1,6 @@
 {
   "name": "ng2-smart-table",
-  "version": "1.5.0",
+  "version": "1.5.1",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
@@ -13,7 +13,8 @@
     "publish": "npm publish --access=public dist/ng2-smart-table",
     "changelog": "standard-changelog -p angular",
     "lint": "ng lint",
-    "e2e": "ng e2e"
+    "e2e": "ng e2e",
+    "releaseVersion": "standard-version"
   },
   "private": true,
   "dependencies": {
@@ -56,6 +57,7 @@
     "ts-node": "~7.0.0",
     "tsickle": "^0.35.0",
     "tslint": "~5.15.0",
-    "typescript": "~3.4.3"
+    "typescript": "~3.4.3",
+    "standard-version": "7.1.0"
   }
 }
