@@ -14,7 +14,7 @@
     "changelog": "standard-changelog -p angular",
     "lint": "ng lint",
     "e2e": "ng e2e",
-    "releaseVersion": "standard-version"
+    "releaseVersion": "standard-version",
   },
   "private": true,
   "dependencies": {
@@ -30,6 +30,7 @@
     "lodash": "^4.17.10",
     "ng2-completer": "^3.0.2",
     "rxjs": "~6.4.0",
+    "semantic-release": "^17.0.2",
     "tslib": "^1.9.0",
     "zone.js": "~0.9.1"
   },
